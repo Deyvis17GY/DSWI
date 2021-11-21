@@ -1,5 +1,5 @@
 # DSWI - Desarrollo de servicios Web I
-Template para el proyecto del curso de desarrollo de servicios web I
+Template para una tienda virtual, proyecto del curso de desarrollo de servicios web I
 con inicio de sesión basico en javascript
 
 # Capturas de Pantalla
